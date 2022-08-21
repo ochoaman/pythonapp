@@ -1,0 +1,22 @@
+
+CRUD PYTHON WEB
+
+1.Instalar XAMPP.
+2. Abrir la consola, habilitar Apache y Mysql
+3. Abrir Mysql con el icono MYSQL.BAT
+4. Crear la base de datos: facturacion. COMANDO:
+ create database facturacion
+5. Subir el scrip (contiene la tabla EMPLEADO). Correr: SubeBDD.bat
+6. Correr APP_python.
+7. En el navegador (.6): http://127.0.0.1:5000/
+
+
+Se puede tomar las fotos de USA Visa 2021 y correr la APP WEB y actualizar... se colocaran en la carpeta uploads.
+
+Error: Apache shutdown unexpectedly.
+22:11:35  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:11:35  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:11:35  [Apache] 	Press the Logs button to view error logs and check
+22:11:35  [Apache] 	the Windows Event Viewer for more clues
+22:11:35  [Apache] 	If you need more help, copy and post this
+22:11:35  [Apache] 	entire log window on the forums
